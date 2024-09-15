@@ -1,0 +1,8 @@
+yfinance: 0.2.37
+talib: 0.4.24
+numpy: 1.24.4
+pandas: 2.0.3
+sklearn: 0.24.0
+xgboost: 1.7.5
+dateutil: 2.8.1
+scipy: 1.10.1
